@@ -1,0 +1,10 @@
+django
+djangorestframework
+psycopg2-binary
+python-decouple
+solana
+web3
+requests
+djangorestframework-simplejwt
+django-ratelimit
+drf-yasg  # For Swagger documentation
